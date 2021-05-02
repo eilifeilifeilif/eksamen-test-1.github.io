@@ -1,0 +1,131 @@
+
+/*font*/
+.hovedfont {
+    font-family: 'Raleway', sans-serif;
+    padding-bottom: 50px;
+    font-weight: 100px;
+}
+
+/*brodtekst*/
+.container {
+    
+font-family: 'Roboto Slab', serif;
+    padding-bottom: 100px;
+}
+
+.col-sm {
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+}
+/*text*/
+
+
+.brodtekst {
+    text-align: justify;
+    text-justify: inter-word;
+    font-weight: 200;
+    padding-right: 
+}
+
+.underoverskrift {
+    font-weight: 200;
+    text-align: center; 
+}
+
+.nav-link {
+font-family: 'Raleway', sans-serif;
+    font-weight: 100;
+    font-size: 25px;
+
+}
+
+.farger {
+font-family: 'Raleway', sans-serif;
+    font-weight: 100;
+    font-size: 15px;
+    color: white;
+    padding-top: 5px;
+}
+
+/*bilder*/
+.syndere {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+}
+
+.bg-dark{
+    background-color: green!important;
+}
+
+/* Centered text */
+
+
+.header {padding-top: 30px;
+}
+
+
+
+.p2 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {padding-top: 100px;
+}
+
+.container4 { position: relative;
+  text-align: center;
+  color: darkgreen;
+    font-weight: 100p;
+
+}
+
+.sesonger {
+  position: relative;
+  text-align: left;
+  color: black;
+    
+}
+
+.container {
+  position: relative;
+  text-align: left;
+  color: black;
+    
+}
+
+.container3 {
+    padding-bottom: 30px;
+}
+
+.container2 {
+    padding-bottom: 30px;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+@media only screen and (min-width: 576px) 
+{  body 
+    {
+background-color: white;}
+
+p { color: black;}
+} 
+
+footer {
+    width: 100%;
+    padding: 5px;
+        background-color: red;
+        color:white;
+    height: 50px;
+        text-align: center;
+ 
+    
+}
